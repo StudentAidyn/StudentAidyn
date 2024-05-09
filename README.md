@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on WebGL Graphics Application
+- 🔭 I’m currently working on a 3D Dungeon Generator Unity Plugin
 - 🌱 I’m currently learning C++ 
 - 🤔 I’m looking for help with learning Java
 
