@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a 3D Dungeon Generator Unity Plugin
-- 🌱 I’m currently learning C++ 
-- 🤔 I’m looking for help with learning Java
+- 🌱 Big Fan of C++ and looking to learn more and more... 
+- 🤔 I’m looking for help with learning Website Building Languages
 
 <!--
 **StudentAidyn/StudentAidyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
