@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a Major Production Project at AIE
+- 🔭 I’m currently working on 3D-MaGic a map generator for Unity
 - 🌱 Big Fan of C++ and looking to learn more and more... 
 - 🤔 I’m looking for help with learning Website Building Languages
 
